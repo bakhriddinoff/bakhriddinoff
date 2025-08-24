@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python,Javascript**
 
-- 📫 How to reach me **bakhriddinoff@gmail.com**
+- 📫 How to reach me **bakhriddinoff01@gmail.com**
 
 - 📄 Know about my experiences [https://ozodbek7.netlify.app](https://ozodbek7.netlify.app)
 
