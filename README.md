@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bakhriddinoff" alt="bakhriddinoff" /></a> </p>
 
-- 🔭 I’m currently working on [Temurbek school](https://temurbekk-schooll.vercel.app)
+- 🔭 I’m currently working on [New projects]
 
 - 🌱 I’m currently learning **Python, React**
 
