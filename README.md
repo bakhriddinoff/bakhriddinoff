@@ -19,8 +19,6 @@
 
 - 📄 Know about my experiences [https://ozodbek7.netlify.app](https://ozodbek7.netlify.app)
 
-- ⚡ Fun fact **I think I'm a little bit introvert**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/bakhriddinoff_o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bakhriddinoff_o" height="30" width="40" /></a>
